@@ -2,17 +2,11 @@ fx_version 'cerulean'
 game 'gta5'
 
 files {
-    --    'vehicles.meta',
-     --   'carvariations.meta',
-     --   'carcols.meta',
-      --  'handling.meta',
-      --  'vehiclelayouts.meta',    -- Not Required
         'data/**/handling.meta',
         'data/**/vehiclelayouts.meta',  
         'data/**/vehicles.meta',
         'data/**/carcols.meta', 
         'data/**/carvariations.meta',
-        'data/**/dlctext.meta',   -- Not Required
     }
 
 data_file 'HANDLING_FILE' 'data/**/handling.meta'
