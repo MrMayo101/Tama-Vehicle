@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfo__InitDataList>
- <residentTxd>vehshare</residentTxd>
- <residentAnims />
- <InitDatas>
-      <Item>
-      <modelName>lhuracant</modelName>
-      <txdName>lhuracant</txdName>
-      <handlingId>lhuracant</handlingId>
-      <gameName>Lamborgini Huracan</gameName>
+  <residentTxd>vehshare</residentTxd>
+  <residentAnims />
+  <InitDatas>
+    <Item>
+      <modelName>ldgtr</modelName>
+      <txdName>ldgtr</txdName>
+      <handlingId>LDGTR</handlingId>
+      <gameName>ldgtr</gameName>
       <vehicleMakeName>Lamborghini</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15,30 +15,30 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>tempesta</audioNameHash>
-      <layout>LAYOUT_LOW</layout>
-      <coverBoundOffsets>FELTZER_COVER_OFFSET_INFO</coverBoundOffsets>
+      <audioNameHash>cheetah</audioNameHash>
+      <layout>LAYOUT_LOW_RESTRICTED</layout>
+      <coverBoundOffsets>NERO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
-      <cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
-      <aimCameraName>MID_BOX_VEHICLE_AIM_CAMERA</aimCameraName>
-      <bonnetCameraName>VEHICLE_BONNET_CAMERA_NEAR_EXTRA_HIGH</bonnetCameraName>
-      <povCameraName>DEFAULT_POV_CAMERA</povCameraName>
-      <FirstPersonDriveByIKOffset x="0.000000" y="-0.055000" z="-0.030000" />
-      <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.050000" z="-0.020000" />
-	  <FirstPersonProjectileDriveByIKOffset x="0.000000" y="-0.100000" z="0.010000" />
-	  <FirstPersonProjectileDriveByPassengerIKOffset x="-0.050000" y="-0.100000" z="0.010000" />
+      <cameraName>FOLLOW_CHEETAH_CAMERA</cameraName>
+      <aimCameraName>DEFAULT_THIRD_PERSON_VEHICLE_AIM_CAMERA</aimCameraName>
+      <bonnetCameraName>VEHICLE_BONNET_CAMERA_NEAR</bonnetCameraName>
+      <povCameraName>REDUCED_NEAR_CLIP_POV_CAMERA</povCameraName>
+      <FirstPersonDriveByIKOffset x="0.045000" y="-0.120000" z="0.010000" />
+      <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.100000" z="-0.005000" />
+	  <FirstPersonProjectileDriveByIKOffset x="0.023000" y="-0.120000" z="-0.020000" />
+	  <FirstPersonProjectileDriveByPassengerIKOffset x="0.023000" y="-0.150000" z="-0.020000" />
 	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
 	  <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
 	  <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.055000" z="-0.030000" />
+	  <FirstPersonDriveByRightPassengerIKOffset x="-0.045000" y="-0.120000" z="0.010000" />
 	  <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
 	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.125000" z="-0.020000" />
-	  <FirstPersonMobilePhoneOffset x="0.104000" y="0.150000" z="0.514000" />
-      <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.116000" z="0.408000" />
-      <PovCameraOffset x="0.000000" y="-0.275000" z="0.620000" />
-      <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
+	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.100000" z="-0.005000" />
+	  <FirstPersonMobilePhoneOffset x="0.135000" y="0.216000" z="0.523000" />
+      <FirstPersonPassengerMobilePhoneOffset x="0.158000" y="0.158000" z="0.416000" />
+      <PovCameraOffset x="0.0" y="-0.150000" z="0.590000" />
+      <PovCameraVerticalAdjustmentForRollCage value="-0.010000" />
       <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
       <PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
       <vfxInfoName>VFXVEHICLEINFO_CAR_GENERIC</vfxInfoName>
@@ -49,28 +49,27 @@
       <AllowJoyriding value="true" />
       <AllowSundayDriving value="true" />
       <AllowBodyColorMapping value="true" />
-      <wheelScale value="0.307200" />
-      <wheelScaleRear value="0.307200" />
+      <wheelScale value="0.300000" />
+      <wheelScaleRear value="0.300000" />
       <dirtLevelMin value="0.000000" />
-      <dirtLevelMax value="0.550000" />
+      <dirtLevelMax value="0.400000" />
       <envEffScaleMin value="0.000000" />
       <envEffScaleMax value="1.000000" />
       <envEffScaleMin2 value="0.000000" />
       <envEffScaleMax2 value="1.000000" />
-      <damageMapScale value="0.900000" />
-      <damageOffsetScale value="0.500000" />
+      <damageMapScale value="0.40000" />
+      <damageOffsetScale value="0.40000" />
       <diffuseTint value="0x00FFFFFF" />
       <steerWheelMult value="1.000000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
-        500.000000
-        500.000000
-        500.000000	
-        500.000000	
-        500.000000	
-        500.000000
+        15.000000
+        30.000000
+        70.000000	
+        140.000000	
+        300.000000	
+        300.000000
       </lodDistances>
-      <minSeatHeight value="0.805" />
       <identicalModelSpawnDistance value="20" />
       <maxNumOfSameColor value="1" />
       <defaultBodyHealth value="1000.000000" />
@@ -78,20 +77,22 @@
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
       <weaponForceMult value="1.000000" />
-      <frequency value="5" />
+      <frequency value="30" />
       <swankness>SWANKNESS_5</swankness>
-      <maxNum value="5" />
-      <flags>FLAG_SPORTS FLAG_HAS_LIVERY FLAG_PEDS_CAN_STAND_ON_TOP FLAG_DISABLE_BUSTING FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_DROP_SUSPENSION_WHEN_STOPPED FLAG_HAS_INTERIOR_EXTRAS FLAG_EXTRAS_ALL</flags>
+      <maxNum value="4" />
+      <flags>FLAG_HAS_LIVERY FLAG_FRONT_BOOT FLAG_SPORTS FLAG_RICH_CAR FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_HAS_EXTRA FLAG_HAS_INTERIOR_EXTRA</flags>
       <type>VEHICLE_TYPE_CAR</type>
-      <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
+      <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_RACE</dashboardType>
-      <vehicleClass>VC_SPORT</vehicleClass>
-      <wheelType>VWT_SPORT</wheelType>
+      <vehicleClass>VC_SUPER</vehicleClass>
+      <wheelType>VWT_HIEND</wheelType>
       <trailers />
       <additionalTrailers />
       <drivers />
       <extraIncludes />
-      <doorsWithCollisionWhenClosed />
+      <doorsWithCollisionWhenClosed>
+        <Item>VEH_EXT_BONNET</Item>
+      </doorsWithCollisionWhenClosed>
       <driveableDoors />
       <bumpersNeedToCollideWithMap value="false" />
       <needsRopeTexture value="false" />
@@ -107,24 +108,16 @@
       <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
       <buoyancySphereSizeScale value="1.000000" />
       <pOverrideRagdollThreshold type="NULL" />
-      <firstPersonDrivebyData>
-        <Item>LOW_COQUETTE_FRONT_LEFT</Item>
-        <Item>LOW_COQUETTE_FRONT_RIGHT</Item>
+	  <firstPersonDrivebyData>
+        <Item>LOW_JB700_FRONT_LEFT</Item>
+        <Item>LOW_JB700_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
-    </Item>
-	</InitDatas>
- <txdRelationships>
+    </Item>    
+ </InitDatas>
+  <txdRelationships>
     <Item>
       <parent>vehicles_race_generic</parent>
-      <child>lhuracant</child>
+      <child>ldgtr</child>
     </Item>
- </txdRelationships>
-     <Item>
-      <parent>vehshare</parent>
-      <child>vehicles_lhuracant_tuning</child>
-    </Item>
-    <Item>
-      <parent>vehicles_lhuracant_tuning</parent>
-      <child>lhuracant</child>
-    </Item>
-</CVehicleModelInfo__InitDataList> 
+  </txdRelationships>
+</CVehicleModelInfo__InitDataList>

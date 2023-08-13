@@ -2,101 +2,23 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>48940_lhuracant_modkit</kitName>
-      <id value="48940" />	 	  
+      <kitName>9411_m4f82_modkit</kitName>
+      <id value="9411" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
-	  <Item>
-          <modelName>lhuracant_exh_1</modelName>
-          <modShopLabel>lhuracant_exh_1</modShopLabel>
+	<Item>
+          <modelName>DUKE_bumper_f</modelName>
+          <modShopLabel>DUKE_bumper_f</modShopLabel>		  
+          <linkedModels>
+            <Item>DUKE_chassis</Item>
+          </linkedModels>
           <turnOffBones>
-          <Item>misc_y</Item>
-          </turnOffBones>
-          <type>VMT_EXHAUST</type>
-          <bone>engineblock</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-    </Item>
-		<Item>
-          <modelName>lhuracant_exh_2</modelName>
-          <modShopLabel>lhuracant_exh_2</modShopLabel>
-          <turnOffBones>
-          <Item>misc_y</Item>
-          </turnOffBones>
-          <type>VMT_EXHAUST</type>
-          <bone>engineblock</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-    </Item>
-	  <Item>
-          <modelName>lhuracant_roof</modelName>
-          <modShopLabel>roofbox</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-          </turnOffBones>
-          <type>VMT_ROOF</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-    </Item>
-	  <Item>
-          <modelName>lhuracant_bumf_1</modelName>
-          <modShopLabel>LBSilhouette</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-            <Item>bumper_f</Item> 
+            <Item>bumper_f</Item>
+            <Item>misc_f</Item>
           </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
-          <collisionBone>mod_col_1</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-    </Item>
-		<Item>
-          <modelName>lhuracant_bumf_2</modelName>
-          <modShopLabel>LBKW</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-          </turnOffBones>
-          <type>VMT_BUMPER_F</type>
-          <bone>bumper_f</bone>
-          <collisionBone>mod_col_1</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-    </Item>
-		<Item>
-          <modelName>lhuracant_bumf_3</modelName>
-          <modShopLabel>Performante</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-	    	  <bone>bumper_f</bone>
-          </turnOffBones>
-          <type>VMT_BUMPER_F</type>
-          <bone>bumper_f</bone>
-          <collisionBone>mod_col_1</collisionBone>
+          <collisionBone>bumper_f</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="0" />
@@ -104,16 +26,16 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>lhuracant_bumf_4</modelName>
-          <modShopLabel>evo</modShopLabel>
+	<Item>
+          <modelName>GTS_bumper_f</modelName>
+          <modShopLabel>GTS_bumper_f</modShopLabel>		  
           <linkedModels />
           <turnOffBones>
-		  <bone>bumper_f</bone>
+            <Item>bumper_f</Item>
           </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
-          <collisionBone>mod_col_1</collisionBone>
+          <collisionBone>bumper_f</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="0" />
@@ -121,16 +43,19 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>lhuracant_bumf_5</modelName>
-          <modShopLabel>duked</modShopLabel>
-          <linkedModels />
+	<Item>
+          <modelName>Varis_bumper_f</modelName>
+          <modShopLabel>Varis_bumper_f</modShopLabel>		  
+          <linkedModels>
+            <Item>Varis_chassis</Item>
+          </linkedModels>
           <turnOffBones>
-		  <bone>bumper_f</bone>
+            <Item>bumper_f</Item>
+            <Item>misc_f</Item>
           </turnOffBones>
           <type>VMT_BUMPER_F</type>
           <bone>bumper_f</bone>
-          <collisionBone>mod_col_1</collisionBone>
+          <collisionBone>bumper_f</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="0" />
@@ -138,30 +63,12 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-	  	<Item>
-          <modelName>lhuracant_bumr_1</modelName>
-          <modShopLabel>LBSilhouette</modShopLabel>
+	<Item>		
+          <modelName>DUKE_bumper_r</modelName>
+          <modShopLabel>DUKE_bumper_r</modShopLabel>		  
           <linkedModels />
           <turnOffBones>
             <Item>bumper_r</Item>
-			<Item>misc_e</Item>
-			<Item>misc_j</Item>   
-          </turnOffBones>
-          <type>VMT_BUMPER_R</type>
-          <bone>bumper_r</bone>
-          <collisionBone>mod_col_1</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_bumr_2</modelName>
-          <modShopLabel>LBKW</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
           </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
@@ -173,20 +80,12 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>lhuracant_bumr_3</modelName>
-          <modShopLabel>Performante</modShopLabel>
-	   <linkedModels>
-	   </linkedModels>
+	<Item>		
+          <modelName>GTS_bumper_r</modelName>
+          <modShopLabel>GTS_bumper_r</modShopLabel>		  
+          <linkedModels />
           <turnOffBones>
-		  <Item>misc_n</Item>
-		  <Item>bumper_r</Item>
-		  <Item>misc_e</Item>
-		  <Item>misc_y</Item>  
-		  <Item>exhaust</Item> 
-		  <Item>exhaust_2</Item> 
-		  <Item>exhaust_3</Item> 
-		  <Item>exhaust_4</Item> 
+            <Item>bumper_r</Item>
           </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
@@ -198,21 +97,12 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>lhuracant_bumr_4</modelName>
-          <modShopLabel>evo</modShopLabel>
-	   <linkedModels>
-	   </linkedModels>
+	<Item>		
+          <modelName>Varis_bumper_r</modelName>
+          <modShopLabel>Varis_bumper_r</modShopLabel>		  
+          <linkedModels />
           <turnOffBones>
-		  <Item>misc_e</Item>
-		  <Item>misc_z</Item>
-		  <Item>misc_n</Item>
-		  <Item>bumper_r</Item>
-		  <Item>misc_y</Item>
-		  <Item>exhaust</Item> 
-		  <Item>exhaust_2</Item> 
-		  <Item>exhaust_3</Item> 
-		  <Item>exhaust_4</Item> 
+            <Item>bumper_r</Item>
           </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>bumper_r</bone>
@@ -224,298 +114,205 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>lhuracant_bumr_5</modelName>
-          <modShopLabel>duked</modShopLabel>
-	   <linkedModels>
-	   </linkedModels>
-          <turnOffBones>
-		  <Item>misc_e</Item>
-		  <Item>misc_z</Item>
-		  <Item>misc_n</Item>
-		  <Item>bumper_r</Item>
-		  <Item>misc_y</Item>
-		  <Item>exhaust</Item> 
-		  <Item>exhaust_2</Item> 
-		  <Item>exhaust_3</Item> 
-		  <Item>exhaust_4</Item> 
-          </turnOffBones>
-          <type>VMT_BUMPER_R</type>
-          <bone>bumper_r</bone>
-          <collisionBone>bumper_r</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_spoil_1</modelName>
-          <modShopLabel>LBSilhouette</modShopLabel>
+        <Item>
+          <modelName>DUKE_bonnet</modelName>
+          <modShopLabel>DUKE_bonnet</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item>misc_d</Item> 
-          </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>misc_d</bone>
-          <collisionBone>misc_d</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_spoil_2</modelName>
-          <modShopLabel>LBKW</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-          </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>misc_d</bone>
-          <collisionBone>misc_d</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_spoil_3</modelName>
-          <modShopLabel>Performante</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-		  <Item>misc_d</Item>
-		  <Item>misc_k</Item> 
-          </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>misc_d</bone>
-          <collisionBone>misc_d</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_spoil_4</modelName>
-          <modShopLabel>jsp</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-          </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>misc_d</bone>
-          <collisionBone>misc_d</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_spoil_5</modelName>
-          <modShopLabel>voltex</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-          </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>misc_d</bone>
-          <collisionBone>misc_d</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_spoil_6</modelName>
-          <modShopLabel>duked</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-          </turnOffBones>
-          <type>VMT_SPOILER</type>
-          <bone>misc_d</bone>
-          <collisionBone>misc_d</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_bnt_1</modelName>
-          <modShopLabel>LBSilhouette</modShopLabel>
-          <linkedModels />
-          <turnOffBones>
-            <Item>misc_h</Item> 
+            <Item>bonnet</Item> 
           </turnOffBones>
           <type>VMT_BONNET</type>
           <bone>bonnet</bone>
-          <collisionBone>bonnet</collisionBone>
+          <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
-          <weight value="0" />
+          <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>lhuracant_skrit_1</modelName>
-          <modShopLabel>LBSilhouette</modShopLabel>
+        <Item>
+          <modelName>GTS_bonnet</modelName>
+          <modShopLabel>GTS_bonnet</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item>misc_f</Item> 
+            <Item>bonnet</Item> 
           </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
-          <weight value="0" />
+          <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>lhuracant_skrit_2</modelName>
-          <modShopLabel>LBKW</modShopLabel>
-          <linkedModels />
-          <turnOffBones> 
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_skrit_3</modelName>
-          <modShopLabel>Performante</modShopLabel>
-		  <linkedModels>
-			<Item>lhuracant_perf_d</Item>
-			<Item>lhuracant_perf_p</Item>
-		  </linkedModels>
-          <turnOffBones>
-		  <Item>misc_f</Item>
-		  <Item>misc_l</Item>
-		  <Item>misc_m</Item>
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="3" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_skrit_4</modelName>
-          <modShopLabel>evo</modShopLabel>
+        <Item>
+          <modelName>Varis_bonnet_carbon</modelName>
+          <modShopLabel>Varis_bonnet_carbon</modShopLabel>
           <linkedModels />
           <turnOffBones>
-		  <Item>misc_f</Item>
-		  <Item>misc_o</Item>
+            <Item>bonnet</Item> 
           </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
-          <weight value="0" />
+          <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>lhuracant_skrit_5</modelName>
-          <modShopLabel>duked</modShopLabel>
-          <linkedModels />
-          <turnOffBones> 
-          </turnOffBones>
-          <type>VMT_SKIRT</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_fender_1</modelName>
-          <modShopLabel>LBSilhouette</modShopLabel>
+        <Item>
+          <modelName>Varis_bonnet_paint</modelName>
+          <modShopLabel>Varis_bonnet_paint</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item>misc_g</Item> 
+            <Item>bonnet</Item> 
           </turnOffBones>
-          <type>VMT_WING_L</type>
-          <bone>chassis</bone>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
-          <weight value="0" />
+          <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
-		<Item>
-          <modelName>lhuracant_fender_2</modelName>
-          <modShopLabel>LBKW</modShopLabel>
+         <Item>
+          <modelName>DUKE_tunck</modelName>
+          <modShopLabel>DUKE_tunck</modShopLabel>
+          <linkedModels />	
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+         <Item>
+          <modelName>DUKE_wing_a</modelName>
+          <modShopLabel>DUKE_wing_a</modShopLabel>
+          <linkedModels />	
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+         <Item>
+          <modelName>DUKE_wing_b</modelName>
+          <modShopLabel>DUKE_wing_b</modShopLabel>
+          <linkedModels />	
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+         <Item>
+          <modelName>GTS_tunck</modelName>
+          <modShopLabel>GTS_tunck</modShopLabel>
+          <linkedModels />	
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+         <Item>
+          <modelName>Varis_wing</modelName>
+          <modShopLabel>Varis_wing</modShopLabel>
+          <linkedModels />	
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>Varis_body</modelName>
+          <modShopLabel>Varis_body</modShopLabel>
           <linkedModels />
           <turnOffBones>
-            <Item>misc_g</Item> 
+            <Item>wing_lf</Item>
+	    <Item>wing_rf</Item>
           </turnOffBones>
-          <type>VMT_WING_L</type>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>GTS-exhaust</modelName>
+          <modShopLabel>GTS-exhaust</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>lhuracant_fendr_1</modelName>
-          <modShopLabel>LBKW</modShopLabel>
-          <linkedModels>
-          </linkedModels>
-          <turnOffBones>
-          </turnOffBones>
-          <type>VMT_WING_R</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="2" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
       </visibleMods>
-	  	  <linkMods>
-		<Item>
-          <modelName>lhuracant_perf_d</modelName>
-          <bone>misc_l</bone>
-          <turnOffExtra value="false" />
-          </Item>
-	      	<Item>
-          <bone>misc_m</bone>
-          <turnOffExtra value="false" />
+      <linkMods>
+        <Item>
+          <modelName>DUKE_chassis</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>Varis_chassis</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
         </Item>
       </linkMods>
       <statMods>
@@ -556,12 +353,19 @@
         </Item>
         <Item>
           <identifier />
-          <modifier value="65" />
+          <modifier value="50" />
           <audioApply value="1.000000" />
           <weight value="5" />
           <type>VMT_BRAKES</type>
         </Item>
         <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+		   <Item>
           <identifier />
           <modifier value="100" />
           <audioApply value="1.000000" />
@@ -578,6 +382,13 @@
         <Item>
           <identifier />
           <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+		<Item>
+          <identifier />
+          <modifier value="75" />
           <audioApply value="1.000000" />
           <weight value="5" />
           <type>VMT_GEARBOX</type>
@@ -680,7 +491,7 @@
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		    <Item>
+		<Item>
           <identifier>HORN_SAD_TROMBONE</identifier>
           <modifier value="632950117" />
           <audioApply value="1.000000" />
@@ -728,70 +539,70 @@
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-	    	</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
           <modifier value="3203290992" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
           <modifier value="771284519" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-	    	</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
           <modifier value="2586621229" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-	    	</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
           <modifier value="283386134" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-	    	</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
           <modifier value="3884502400" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
-    		<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
           <modifier value="265723083" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
           <modifier value="1746883687" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
           <modifier value="1919870950" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
-    		<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
           <modifier value="1085277077" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
+		</Item>
         <Item>
           <identifier>HIPSTER_HORN_1</identifier>
           <modifier value="444549672" />
@@ -848,21 +659,21 @@
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-	    	<Item>
+		<Item>
           <identifier>LUXE_HORN_1</identifier>
           <modifier value="3199657341" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-	    	<Item>
+		<Item>
           <identifier>LUXE_HORN_2</identifier>
           <modifier value="2900378064" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-	    	<Item>
+		<Item>
           <identifier>LUXE_HORN_3</identifier>
           <modifier value="3956195248" />
           <audioApply value="1.000000" />
@@ -870,7 +681,7 @@
           <type>VMT_HORN</type>
         </Item>
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-	    	<Item>
+		<Item>
           <identifier>LUXORY_HORN_1</identifier>
           <modifier value="676333254" />
           <audioApply value="1.000000" />
@@ -878,7 +689,7 @@
           <type>VMT_HORN</type>
         </Item>
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-    		<Item>
+		<Item>
           <identifier>LUXURY_HORN_2</identifier>
           <modifier value="2099578296" />
           <audioApply value="1.000000" />
@@ -886,16 +697,23 @@
           <type>VMT_HORN</type>
         </Item>
 		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-	    	<Item>
+		<Item>
           <identifier>LUXURY_HORN_3</identifier>
           <modifier value="1373384483" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-        <Item>
+		  <Item>
           <identifier />
           <modifier value="10" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="15" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_SUSPENSION</type>
@@ -914,154 +732,149 @@
           <weight value="0" />
           <type>VMT_SUSPENSION</type>
         </Item>
-        <Item>
-          <identifier />
-          <modifier value="30" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
       </statMods>
       <slotNames />
-        <Item>
-          <slot>VMT_CHASSIS</slot>
-          <name>TOP_CAGE</name>
-        </Item>
       <liveryNames />
     </Item>
   </Kits>
-    <Lights>
+<Lights>
     <Item>
-      <id value="998" />	
+      <id value="9411"/>
       <indicator>
-        <intensity value="0.375000" />
-        <falloffMax value="2.500000" />
-        <falloffExponent value="8.000000" />
-        <innerConeAngle value="30.000000" />
-        <outerConeAngle value="80.000000" />
-        <emmissiveBoost value="false" />
-        <color value="0xFFFF8000" />
+        <intensity value="0.37500000"/>
+        <falloffMax value="2.50000000"/>
+        <falloffExponent value="8.00000000"/>
+        <innerConeAngle value="30.00000000"/>
+        <outerConeAngle value="80.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFF8000"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
       </indicator>
       <rearIndicatorCorona>
-        <size value="0.000000" />
-        <size_far value="0.000000" />
-        <intensity value="0.000000" />
-        <intensity_far value="0.000000" />
-        <color value="0x00000000" />
-        <numCoronas value="1" />
-        <distBetweenCoronas value="128" />
-        <distBetweenCoronas_far value="255" />
-        <xRotation value="0.000000" />
-        <yRotation value="0.000000" />
-        <zRotation value="0.000000" />
-        <zBias value="0.250000" />
-        <pullCoronaIn value="false" />
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
       </rearIndicatorCorona>
       <frontIndicatorCorona>
-        <size value="0.000000" />
-        <size_far value="0.000000" />
-        <intensity value="0.000000" />
-        <intensity_far value="0.000000" />
-        <color value="0x00000000" />
-        <numCoronas value="1" />
-        <distBetweenCoronas value="128" />
-        <distBetweenCoronas_far value="255" />
-        <xRotation value="0.000000" />
-        <yRotation value="0.000000" />
-        <zRotation value="0.000000" />
-        <zBias value="0.250000" />
-        <pullCoronaIn value="false" />
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="0"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
       </frontIndicatorCorona>
       <tailLight>
-        <intensity value="0.250000" />
-        <falloffMax value="4.000000" />
-        <falloffExponent value="16.000000" />
-        <innerConeAngle value="45.000000" />
-        <outerConeAngle value="90.000000" />
-        <emmissiveBoost value="false" />
-        <color value="0xFFFF0000" />
+        <intensity value="0.25000000"/>
+        <falloffMax value="4.00000000"/>
+        <falloffExponent value="16.00000000"/>
+        <innerConeAngle value="45.00000000"/>
+        <outerConeAngle value="90.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFF0000"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
       </tailLight>
       <tailLightCorona>
-        <size value="0.900000" />
-        <size_far value="5.300000" />
-        <intensity value="4.000000" />
-        <intensity_far value="1.000000" />
-        <color value="0xFFFF1E05" />
-        <numCoronas value="0" />
-        <distBetweenCoronas value="0.1" />
-        <distBetweenCoronas_far value="20.5" />
-        <xRotation value="0.000000" />
-        <yRotation value="0.000000" />
-        <zRotation value="5.667000" />
-        <zBias value="0.000000" />
-        <pullCoronaIn value="false" />
+        <size value="0.00000000"/>
+        <size_far value="8.00000000"/>
+        <intensity value="4.00000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0xFFFF1E05"/>
+        <numCoronas value="0"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
       </tailLightCorona>
       <tailLightMiddleCorona>
-        <size value="0.000000" />
-        <size_far value="0.000000" />
-        <intensity value="0.000000" />
-        <intensity_far value="0.000000" />
-        <color value="0x00000000" />
-        <numCoronas value="0" />
-        <distBetweenCoronas value="25" />
-        <distBetweenCoronas_far value="25" />
-        <xRotation value="0.000000" />
-        <yRotation value="0.000000" />
-        <zRotation value="0.000000" />
-        <zBias value="0.000000" />
-        <pullCoronaIn value="false" />
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="0"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
       </tailLightMiddleCorona>
       <headLight>
-        <intensity value="1.000000" />
-        <falloffMax value="35.000000" />
-        <falloffExponent value="16.000000" />
-        <innerConeAngle value="0.000000" />
-        <outerConeAngle value="60.209999" />
-        <emmissiveBoost value="false" />
-        <color value="0xFFFFFFCC" />
-        <textureName>VehicleLight_car_oldsquare</textureName>
-        <mirrorTexture value="true" />
+        <intensity value="1.00000000"/>
+        <falloffMax value="35.00000000"/>
+        <falloffExponent value="16.00000000"/>
+        <innerConeAngle value="0.00000000"/>
+        <outerConeAngle value="60.21000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFFFFCC"/>
+        <textureName>VehicleLight_car_LED2</textureName>
+        <mirrorTexture value="false"/>
       </headLight>
       <headLightCorona>
-        <size value="0.100000" />
-        <size_far value="10.000000" />
-        <intensity value="5.000000" />
-        <intensity_far value="1.000000" />
-        <color value="0xFFFFFFFF" />
-        <numCoronas value="1" />
-        <distBetweenCoronas value="128" />
-        <distBetweenCoronas_far value="255" />
-        <xRotation value="0.000000" />
-        <yRotation value="0.000000" />
-        <zRotation value="0.000000" />
-        <zBias value="0.250000" />
-        <pullCoronaIn value="false" />
+        <size value="0.10000000"/>
+        <size_far value="10.00000000"/>
+        <intensity value="5.00000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0xFFFFFFFF"/>
+        <numCoronas value="2"/>
+        <distBetweenCoronas value="20"/>
+        <distBetweenCoronas_far value="174"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.76026500"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
       </headLightCorona>
       <reversingLight>
-        <intensity value="0.500000" />
-        <falloffMax value="4.000000" />
-        <falloffExponent value="32.000000" />
-        <innerConeAngle value="45.000000" />
-        <outerConeAngle value="90.000000" />
-        <emmissiveBoost value="false" />
-        <color value="0xFFFFFFFF" />
+        <intensity value="0.50000000"/>
+        <falloffMax value="4.00000000"/>
+        <falloffExponent value="32.00000000"/>
+        <innerConeAngle value="45.00000000"/>
+        <outerConeAngle value="90.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFFFFFF"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
       </reversingLight>
       <reversingLightCorona>
-        <size value="0.800000" />
-        <size_far value="2.000000" />
-        <intensity value="1.500000" />
-        <intensity_far value="1.000000" />
-        <color value="0x00F7F7F7" />
-        <numCoronas value="1" />
-        <distBetweenCoronas value="128" />
-        <distBetweenCoronas_far value="255" />
-        <xRotation value="0.000000" />
-        <yRotation value="0.000000" />
-        <zRotation value="0.000000" />
-        <zBias value="0.250000" />
-        <pullCoronaIn value="false" />
+        <size value="0.80000000"/>
+        <size_far value="2.00000000"/>
+        <intensity value="1.50000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0x00F7F7F7"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
       </reversingLightCorona>
-      <name>lhuracant</name>
+      <name>m4f82</name>
     </Item>
-    </Lights>
+   </Lights>
 </CVehicleModelInfoVarGlobal>
