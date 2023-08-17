@@ -3,7 +3,6 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-
     <Item>
       <modelName>templar</modelName>
       <txdName>templar</txdName>
@@ -107,15 +106,11 @@
         <Item>BIKE_RUFFIAN_FRONT</Item>
       </firstPersonDrivebyData>
     </Item>
-		
-  </InitDatas>
-
+		  </InitDatas>
   <txdRelationships>
-
     <Item>
       <parent>vehicles_sportbk_interior</parent>
       <child>verin</child>
     </Item>
   </txdRelationships>
-
 </CVehicleModelInfo__InitDataList>
