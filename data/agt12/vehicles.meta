@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>penumbra2</audioNameHash>
+      <audioNameHash>aston59v12</audioNameHash>
       <layout>LAYOUT_LOW_RHD</layout>
       <coverBoundOffsets>STINGER_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -113,12 +113,10 @@
       </firstPersonDrivebyData>
     </Item>
 </InitDatas>
-
   <txdRelationships>
 <Item>
       <parent>vehicles_race_generic</parent>
       <child>agt12</child>
     </Item>
   </txdRelationships>
-
 </CVehicleModelInfo__InitDataList>
