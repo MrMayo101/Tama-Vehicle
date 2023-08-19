@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <CVehicleModelInfoVariation>
   <variationData> 
+
+
+
+
+
+
+
+
+
+
     <Item>
       <modelName>Victor</modelName>
       <colors>
@@ -87,5 +98,15 @@
       <lightSettings value="1" />
       <sirenSettings value="0" />
     </Item>
+
+
+
+
+
+
+
+
+
+
   </variationData>
 </CVehicleModelInfoVariation>

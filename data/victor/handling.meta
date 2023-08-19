@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <CHandlingDataMgr>
   <HandlingData>
+
+
+
+
+
+
+
+
+
+
     <Item type="CHandlingData">
-      <handlingName>VICTOR</handlingName>
+      <handlingName>Victor</handlingName>
       <fMass value="1250.000000" />
       <fInitialDragCoeff value="0.900000" />
       <fPercentSubmerged value="85.000000" />
@@ -58,5 +69,15 @@
         <Item type="NULL" />
       </SubHandlingData>
     </Item>
+
+
+
+
+
+
+
+
+
+
   </HandlingData>
 </CHandlingDataMgr>

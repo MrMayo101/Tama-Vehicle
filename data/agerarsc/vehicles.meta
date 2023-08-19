@@ -113,12 +113,10 @@
       </firstPersonDrivebyData>
     </Item>
   </InitDatas>
-
   <txdRelationships>
     <Item>
       <parent>vehicles_comet_interior</parent>
       <child>agerarsc</child>
     </Item>
   </txdRelationships>
-
 </CVehicleModelInfo__InitDataList>

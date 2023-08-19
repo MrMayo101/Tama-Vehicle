@@ -112,13 +112,11 @@
         <Item>LOW_STINGER_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-</InitDatas>
-
+  </InitDatas>
   <txdRelationships>
-<Item>
+  <Item>
       <parent>vehicles_race_generic</parent>
       <child>ffrs</child>
     </Item>
   </txdRelationships>
-
 </CVehicleModelInfo__InitDataList>

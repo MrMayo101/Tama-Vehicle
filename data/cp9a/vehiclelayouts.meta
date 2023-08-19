@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CVehicleMetadataMgr>
-	
 	<VehicleCoverBoundOffsetInfos>
 		<Item type="CVehicleCoverBoundOffsetInfo">
 		  <Name>RHD_COVER_OFFSET_INFO</Name>
@@ -11,8 +9,7 @@
 		  <ExtraZOffset value="-0.200000" />
 		  <CoverBoundInfos />
 		</Item>
-	</VehicleCoverBoundOffsetInfos>
-	
+	</VehicleCoverBoundOffsetInfos>	
 	<VehicleSeatInfos>
 		<Item type="CVehicleSeatInfo">
 			<Name>SEAT_RHD_FRONT_LEFT</Name>
@@ -33,7 +30,6 @@
 			<HairScale value="-0.2750000" />
 		</Item>
 	</VehicleSeatInfos> 
-	
 	<VehicleSeatAnimInfos>
 		<Item type="CVehicleSeatAnimInfo">
 			<Name>SEAT_ANIM_RHD_FRONT_LEFT</Name>
@@ -71,7 +67,6 @@
 			<FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_LOW_PS</FemaleGestureClipSetId>
 		</Item>
 	</VehicleSeatAnimInfos>
-	
 	<VehicleEntryPointInfos>
 		<Item type="CVehicleEntryPointInfo">
 			<Name>ENTRY_POINT_STANDARD_RHD_FRONT_LEFT</Name>
@@ -106,7 +101,6 @@
 			</BlockJackReactionSides>
 		</Item>
 	</VehicleEntryPointInfos> 	
-
 	<VehicleLayoutInfos>
 		<Item type="CVehicleLayoutInfo">
 			<Name>LAYOUT_CP9A</Name>
@@ -169,5 +163,4 @@
 			</FirstPersonRoadRageClipSets>
 		</Item>
 	</VehicleLayoutInfos>
-	
 </CVehicleMetadataMgr>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CVehicleModelInfoVariation>
   <variationData> 
     <Item>
@@ -11,7 +10,7 @@
             01 
             50 
             02
-			112
+            112
           </indices>
           <liveries>
             <Item value="true" />
@@ -35,5 +34,5 @@
       <lightSettings value="12003" />
       <sirenSettings value="0" />
     </Item>
-   </variationData>
+</variationData>
 </CVehicleModelInfoVariation>
