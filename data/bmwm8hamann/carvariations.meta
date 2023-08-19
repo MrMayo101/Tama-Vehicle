@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CVehicleModelInfoVariation>
   <variationData>
-	
-	
-	
 	<Item>
       <modelName>bmwm8hamann</modelName>
       <colors>
@@ -100,8 +96,5 @@
       <lightSettings value="0" />
       <sirenSettings value="0" />
     </Item>
-	
-	
-
   </variationData>
 </CVehicleModelInfoVariation>

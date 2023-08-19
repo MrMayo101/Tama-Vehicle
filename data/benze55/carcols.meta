@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
@@ -1304,6 +1303,6 @@
         <zBias value="0.25000000"/>
         <pullCoronaIn value="false"/>
       </reversingLightCorona>
-						</Item>
+			</Item>
 			</Lights>
 </CVehicleModelInfoVarGlobal>

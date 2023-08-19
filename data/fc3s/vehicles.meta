@@ -113,12 +113,10 @@
       </firstPersonDrivebyData>
     </Item>
   </InitDatas>
-
   <txdRelationships>
     <Item>
       <parent>vehshare_worn</parent>
       <child>4c</child>
     </Item>
   </txdRelationships>
-
 </CVehicleModelInfo__InitDataList>

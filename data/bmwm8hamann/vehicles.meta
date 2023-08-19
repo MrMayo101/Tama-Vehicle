@@ -3,8 +3,6 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-	
-	
 <Item>
       <modelName>bmwm8hamann</modelName>
       <txdName>bmwm8hamann</txdName>
@@ -126,22 +124,11 @@
         <Item>STD_SCHAFTER4_REAR_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-
-	
-	
-
-
   </InitDatas>
   <txdRelationships>
-   
-  
-		
 		<Item>
      <parent>vehicles_race_generic</parent> 
       <child>bmwm8hamann</child>
     </Item>
-		
-
-
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>

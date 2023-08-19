@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CHandlingDataMgr>
   <HandlingData>
 	<Item type="CHandlingData">
       <handlingName>BT62R</handlingName>
-      <fMass value="1200.000000" />
+      <fMass value="1800.000000" />
       <fInitialDragCoeff value="5.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />

@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal> 
-
-
-
-
-
-
-
-
-
   <Kits>
     <Item>
       <kitName>643_cam8tun_modkit</kitName>
@@ -999,14 +990,4 @@
       <name>cam8tun</name>
     </Item>
     </Lights>
-
-
-
-
-
-
-
-
-
-
 </CVehicleModelInfoVarGlobal>

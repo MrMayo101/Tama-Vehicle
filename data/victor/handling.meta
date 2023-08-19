@@ -2,16 +2,6 @@
 
 <CHandlingDataMgr>
   <HandlingData>
-
-
-
-
-
-
-
-
-
-
     <Item type="CHandlingData">
       <handlingName>Victor</handlingName>
       <fMass value="1250.000000" />
@@ -69,15 +59,5 @@
         <Item type="NULL" />
       </SubHandlingData>
     </Item>
-
-
-
-
-
-
-
-
-
-
   </HandlingData>
 </CHandlingDataMgr>

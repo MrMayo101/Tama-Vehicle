@@ -118,9 +118,5 @@
       <parent>vehicles_dom_interior</parent>
       <child>cam8tun</child>
     </Item>
-
-
-
-	
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>
