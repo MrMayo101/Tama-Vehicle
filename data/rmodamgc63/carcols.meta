@@ -6,6 +6,57 @@
       <id value="11255" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
+      	  	<Item>
+          <modelName>amg63_wing_1</modelName>
+          <modShopLabel>amg63_wing_1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  <Item>boot</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  	<Item>
+          <modelName>amg63_wing_2</modelName>
+          <modShopLabel>amg63_wing_2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  <Item>boot</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>amg63_wing_3</modelName>
+          <modShopLabel>amg63_wing_3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones>
+		  <Item>boot</Item>
+		  </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
       </visibleMods>
       <linkMods />
       <statMods>
