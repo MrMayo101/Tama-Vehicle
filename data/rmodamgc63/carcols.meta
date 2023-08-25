@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
   <Item>
-      <kitName>11255_rmodamgc63_modkit</kitName>
-      <id value="11255" />	 	  
+      <kitName>1088_rmodamgc63_modkit</kitName>
+      <id value="1088" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       	  	<Item>
@@ -495,7 +495,7 @@
   </Kits>
       <Lights>
       <Item>
-      <id value="11255" />
+      <id value="151" />
       <indicator>
         <intensity value="0.375000" />
         <falloffMax value="2.500000" />
@@ -624,7 +624,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>rmodgtr</name>
+      <name>rmodamgc63</name>
     </Item>
     </Lights>
 </CVehicleModelInfoVarGlobal>
