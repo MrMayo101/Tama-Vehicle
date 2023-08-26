@@ -81,7 +81,7 @@
       <frequency value="30" />
       <swankness>SWANKNESS_5</swankness>
       <maxNum value="5" />
-      <flags>FLAG_BOOT_IN_FRONT FLAG_SPORTS FLAG_SPAWN_ON_TRAILER FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_CAN_HAVE_NEONS</flags>
+      <flags>FLAG_BOOT_IN_FRONT FLAG_SPORTS FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_CAN_HAVE_NEONS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_FEROCI</dashboardType>
