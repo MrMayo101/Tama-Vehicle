@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>fd</handlingName>
+      <handlingName>FD</handlingName>
       <fMass value="1700.000000" />
       <fInitialDragCoeff value="4.500000" />
       <fPercentSubmerged value="85.000000" />
@@ -32,13 +31,13 @@
       <fSuspensionCompDamp value="1.200000" />
       <fSuspensionReboundDamp value="2.400000" />
       <fSuspensionUpperLimit value="0.100000" />
-      <fSuspensionLowerLimit value="-0.100000" />
+      <fSuspensionLowerLimit value="-0.150000" />
       <fSuspensionRaise value="0.000000" />
       <fSuspensionBiasFront value="0.500000" />
       <fAntiRollBarForce value="0.800000" />
-      <fAntiRollBarBiasFront value="0.430000" />
-      <fRollCentreHeightFront value="0.150000" />
-      <fRollCentreHeightRear value="0.150000" />
+      <fAntiRollBarBiasFront value="0.90000" />
+      <fRollCentreHeightFront value="0.250000" />
+      <fRollCentreHeightRear value="0.250000" />
       <fCollisionDamageMult value="0.800000" />
       <fWeaponDamageMult value="1.000000" />
       <fDeformationDamageMult value="0.800000" />
