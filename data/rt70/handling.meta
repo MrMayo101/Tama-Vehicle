@@ -36,7 +36,7 @@
       <fSuspensionRaise value="0.0" />
       <fSuspensionBiasFront value="0.54" />
       <fAntiRollBarForce value="1.98" />
-      <fAntiRollBarBiasFront value="0.0" />
+      <fAntiRollBarBiasFront value="0.5" />
       <fRollCentreHeightFront value="0.26" />
       <fRollCentreHeightRear value="0.29" />
       <fCollisionDamageMult value="0.8" />
