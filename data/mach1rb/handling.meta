@@ -39,7 +39,7 @@
       <fRollCentreHeightFront value="0.35000" />
       <fRollCentreHeightRear value="0.26500" />
       <fCollisionDamageMult value="0.70000"/>
-      <fWeaponDamageMult value="0.800000" />
+      <fWeaponDamageMult value="0.700000" />
       <fDeformationDamageMult value="0.70000"/>
       <fEngineDamageMult value="0.700000" />
       <fPetrolTankVolume value="65.000000" />
