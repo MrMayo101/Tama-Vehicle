@@ -8,7 +8,7 @@
       <txdName>pol458</txdName>
       <handlingId>POL458</handlingId>
       <gameName>pol458</gameName>
-      <vehicleMakeName>FERRARI</vehicleMakeName>
+      <vehicleMakeName>Ferrari</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
@@ -112,25 +112,11 @@
         <Item>STD_DOMINATOR_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
-
-
-
-
-
-
-
-
-
-
   </InitDatas>
   <txdRelationships>
     <Item>
       <parent>vehicles_dom_interior</parent>
       <child>pol458</child>
     </Item>
-
-
-
-	
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>

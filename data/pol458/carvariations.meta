@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CVehicleModelInfoVariation>
   <variationData> 
-
-
-
-
-
-
-
-
-
-
     <Item>
       <modelName>pol458</modelName>
       <colors>
@@ -104,7 +93,8 @@
             <Item value="false" />
             <Item value="false" />
           </liveries>
-        </Item>        <Item>
+        </Item>
+        <Item>
           <indices content="char_array">
             134 
             134 
@@ -160,7 +150,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>0_default_modkit</Item>
+        <Item>1589_pol458_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -169,15 +159,5 @@
       <lightSettings value="1" />
       <sirenSettings value="1" />
     </Item>
-
-
-
-
-
-
-
-
-
-
   </variationData>
 </CVehicleModelInfoVariation>
