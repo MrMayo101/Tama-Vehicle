@@ -7,7 +7,7 @@
       <modelName>m4lb</modelName>
       <txdName>m4lb</txdName>
       <handlingId>M4LB</handlingId>
-      <gameName>m4</gameName>
+      <gameName>m4lb</gameName>
       <vehicleMakeName>BMW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -109,12 +109,10 @@
       </firstPersonDrivebyData>
     </Item>
  </InitDatas>
-
   <txdRelationships>
     <Item>
       <parent>vehicles_btype_interior</parent>
       <child>m4lb</child>
     </Item>
   </txdRelationships>
-
 </CVehicleModelInfo__InitDataList>
