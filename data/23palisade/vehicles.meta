@@ -6,8 +6,8 @@
     <Item>
       <modelName>23palisade</modelName>
       <txdName>23palisade</txdName>
-      <handlingId>23palisade</handlingId>
-      <gameName>PALISADE</gameName>
+      <handlingId>23PALISADE</handlingId>
+      <gameName>23palisade</gameName>
       <vehicleMakeName>HYUNDAI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
