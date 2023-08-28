@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>aq46forgtebv6</audioNameHash>
-      <layout>LAYOUT_LOW_FFRS</layout>
+      <layout>LAYOUT_LOW_FRS</layout>
       <coverBoundOffsets>STINGER_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />

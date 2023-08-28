@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <CVehicleMetadataMgr>
-**	<VehicleCoverBoundOffsetInfos>
+	
+	<VehicleCoverBoundOffsetInfos>
 		<Item type="CVehicleCoverBoundOffsetInfo">
 		  <Name>RHD_COVER_OFFSET_INFO</Name>
 		  <ExtraSideOffset value="-0.050000" />
@@ -31,6 +33,7 @@
 			<HairScale value="-0.2750000" />
 		</Item>
 	</VehicleSeatInfos> 
+	
 	<VehicleSeatAnimInfos>
 		<Item type="CVehicleSeatAnimInfo">
 			<Name>SEAT_ANIM_RHD_FRONT_LEFT</Name>
@@ -68,6 +71,7 @@
 			<FemaleGestureClipSetId>ANIM_GROUP_GESTURE_F_CAR_LOW_PS</FemaleGestureClipSetId>
 		</Item>
 	</VehicleSeatAnimInfos>
+	
 	<VehicleEntryPointInfos>
 		<Item type="CVehicleEntryPointInfo">
 			<Name>ENTRY_POINT_RHD_FRONT_LEFT</Name>
@@ -101,7 +105,8 @@
 			<Item>SIDE_LEFT</Item>
 			</BlockJackReactionSides>
 		</Item>
-	</VehicleEntryPointInfos>		
+	</VehicleEntryPointInfos>	
+	
 	<VehicleEntryPointAnimInfos>
 		<Item type="CVehicleEntryPointAnimInfo">
 		  <Name>ENTRY_POINT_ANIM_LOW_RHD_FRONT_LEFT</Name>
@@ -144,9 +149,10 @@
 		  <NMJumpFromVehicleTuningSet />
 		</Item>
 	</VehicleEntryPointAnimInfos>
+
 	<VehicleLayoutInfos>
 		<Item type="CVehicleLayoutInfo">
-			<Name>LAYOUT_LOW_FFRS</Name>
+			<Name>LAYOUT_LOW_FRS</Name>
 			<Seats>
 			<Item>
 			<SeatInfo ref="SEAT_STANDARD_FRONT_LEFT" />
@@ -192,6 +198,7 @@
 			</CellphoneClipsets>
 		</Item>
 	</VehicleLayoutInfos>
+	
 	<FirstPersonDriveByLookAroundData>
 		<Item type="CFirstPersonDriveByLookAroundData">
 		  <Name>LOW_RHD_FRONT_LEFT</Name>
@@ -298,4 +305,5 @@
 		  </WheelClipInfo>
 		</Item>
 	</FirstPersonDriveByLookAroundData>
+	
 </CVehicleMetadataMgr>
