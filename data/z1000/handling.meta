@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>z1000</handlingName>
+      <handlingName>Z1000</handlingName>
       <fMass value="250.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="95.000000" />
@@ -72,7 +71,7 @@
           <fFrontBalanceMult value="85.000000" />
           <fBikeGroundSideFrictionMult value="1.400000" />
           <fBikeWheelGroundSideFrictionMult value="1.100000" />
-          <fBikeOnStandLeanAngle value="-10.850000" />
+          <fBikeOnStandLeanAngle value="-15.000000" />
           <fBikeOnStandSteerAngle value="0.300000" />
           <fJumpForce value="0.000000" />
         </Item>
