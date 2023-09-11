@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>subaruej20</audioNameHash>
-      <layout>LAYOUT_LOW_RHD</layout>
+      <layout>LAYOUT_LOW_22B</layout>
       <coverBoundOffsets>BLISTA_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
@@ -49,8 +49,8 @@
       <AllowJoyriding value="true" />
       <AllowSundayDriving value="true" />
       <AllowBodyColorMapping value="true" />
-      <wheelScale value="0.270000" />
-      <wheelScaleRear value="0.290000" />
+      <wheelScale value="0.230000" />
+      <wheelScaleRear value="0.230000" />
       <dirtLevelMin value="0.000000" />
       <dirtLevelMax value="0.500000" />
       <envEffScaleMin value="0.000000" />
