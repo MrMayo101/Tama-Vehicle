@@ -109,6 +109,74 @@
           <allowBonnetSlide value="true" />
         </Item>
 		<Item>
+          <modelName>gr86_bumf_7</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		      <Item>misc_a</Item>
+			  <Item>misc_l</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>misc_a</bone>
+          <collisionBone>misc_a</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_bumf_8</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>misc_a</bone>
+          <collisionBone>misc_a</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_bumf_9</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <Item>misc_a</Item>
+		  <Item>misc_l</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>misc_a</bone>
+          <collisionBone>misc_a</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_bumf_10</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>misc_a</bone>
+          <collisionBone>misc_a</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
           <modelName>gr86_bumr_1</modelName>
           <modShopLabel>jsp</modShopLabel>
           <linkedModels />
@@ -146,6 +214,72 @@
           <modShopLabel>jsp</modShopLabel>
           <linkedModels />
           <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>misc_j</bone>
+          <collisionBone>misc_j</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_bumr_4</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>misc_j</bone>
+          <collisionBone>misc_j</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_bumr_5</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>misc_j</bone>
+          <collisionBone>misc_j</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_bumr_6</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>misc_j</bone>
+          <collisionBone>misc_j</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_bumr_7</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_j</Item>
           </turnOffBones>
           <type>VMT_BUMPER_R</type>
           <bone>misc_j</bone>
@@ -198,6 +332,71 @@
           <turnOffBones>
             <Item>misc_k</Item>
             <Item>misc_l</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>misc_f</bone>
+          <collisionBone>misc_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_skirt_4</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>misc_f</bone>
+          <collisionBone>misc_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_skirt_5</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>misc_f</bone>
+          <collisionBone>misc_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_skirt_6</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_l</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>misc_f</bone>
+          <collisionBone>misc_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_skirt_7</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
           </turnOffBones>
           <type>VMT_SKIRT</type>
           <bone>misc_f</bone>
@@ -269,6 +468,97 @@
           <modelName>gr86_fender_4</modelName>
           <modShopLabel>jsp</modShopLabel>
           <linkedModels>
+		  </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_fender_5</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels>
+		  </linkedModels>
+          <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_fender_6</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels>
+		  </linkedModels>
+          <turnOffBones>
+		  <Item>misc_l</Item>
+		  <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_fender_7</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels>
+		  </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_fender_8</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels>
+		  </linkedModels>
+          <turnOffBones>
+		  <Item>misc_k</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_fender_9</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels>
+		  <Item>gr86_fender_9_int</Item>
 		  </linkedModels>
           <turnOffBones>
           </turnOffBones>
@@ -379,6 +669,166 @@
           <allowBonnetSlide value="true" />
         </Item>
 		<Item>
+          <modelName>gr86_spoil_7</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_spoil_8</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_spoil_9</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_spoil_10</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_spoil_11</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_spoil_12</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>	
+		<Item>
+          <modelName>gr86_spoil_13</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_spoil_14</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_spoil_15</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>	
+		<Item>
+          <modelName>gr86_spoil_16</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>			
+		<Item>
           <modelName>gr86_hood_1</modelName>
           <modShopLabel>jsp</modShopLabel>
           <linkedModels />
@@ -391,6 +841,125 @@
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_hood_2</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>misc_h</bone>
+          <collisionBone>misc_h</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_hood_3</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>misc_h</bone>
+          <collisionBone>misc_h</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_hood_4</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>misc_h</bone>
+          <collisionBone>misc_h</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_hood_5</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>misc_h</bone>
+          <collisionBone>misc_h</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_hood_6</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>misc_h</bone>
+          <collisionBone>misc_h</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_hood_7</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>misc_h</bone>
+          <collisionBone>misc_h</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_roof_1</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
@@ -417,6 +986,45 @@
           <allowBonnetSlide value="true" />
         </Item>
 		<Item>
+          <modelName>gr86_exhaust_2</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+			<Item>misc_p</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>misc_p</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_exhaust_3</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <turnOffBones>
+		  <Item>exhaust</Item>
+          <Item>exhaust_2</Item>
+		  <Item>exhaust_3</Item>
+          <Item>exhaust_4</Item>
+          <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>misc_p</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
           <modelName>gr86_lmirror_1</modelName>
           <modShopLabel>jsp</modShopLabel>
           <linkedModels>
@@ -429,21 +1037,6 @@
           <type>VMT_DOOR_L</type>
           <bone>door_dside_f</bone>
           <collisionBone>door_dside_f</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-		<Item>
-          <modelName>gr86_interco_1</modelName>
-          <modShopLabel>jsp</modShopLabel>
-          <linkedModels />
-          <turnOffBones />
-          <type>VMT_GRILL</type>
-          <bone>misc_a</bone>
-          <collisionBone>misc_a</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
           <audioApply value="1.000000" />
           <weight value="20" />
@@ -483,10 +1076,139 @@
           <disableBonnetCamera value="false" />
           <allowBonnetSlide value="true" />
         </Item>
+		<Item>
+          <modelName>gr86_seats_3</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <turnOffBones>
+          <Item>misc_e</Item>
+         </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>misc_e</bone>
+          <collisionBone>misc_e</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_seats_4</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <turnOffBones>
+          <Item>misc_e</Item>
+         </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>misc_e</bone>
+          <collisionBone>misc_e</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_seats_5</modelName>
+          <modShopLabel>jsp</modShopLabel>
+          <turnOffBones>
+          <Item>misc_e</Item>
+         </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>misc_e</bone>
+          <collisionBone>misc_e</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_windecal_1</modelName>
+          <modShopLabel>Windows Decals 1</modShopLabel>
+          <linkedModels>
+          <Item>gr86_windecal_rf_1</Item>
+          <Item>gr86_windecal_lf_1</Item>
+          <Item>gr86_windecal_r_1</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_windecal_2</modelName>
+          <modShopLabel>Windows Decals 2</modShopLabel>
+          <linkedModels>
+          <Item>gr86_windecal_rf_2</Item>
+          <Item>gr86_windecal_lf_2</Item>
+          <Item>gr86_windecal_r_2</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_windecal_3</modelName>
+          <modShopLabel>Windows Decals 3</modShopLabel>
+          <linkedModels>
+          <Item>gr86_windecal_rf_3</Item>
+          <Item>gr86_windecal_lf_3</Item>
+          <Item>gr86_windecal_r_3</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>gr86_windecal_4</modelName>
+          <modShopLabel>Windows Decals 4</modShopLabel>
+          <linkedModels>
+          <Item>gr86_windecal_rf_4</Item>
+          <Item>gr86_windecal_lf_4</Item>
+          <Item>gr86_windecal_r_4</Item>
+		  </linkedModels>
+          <turnOffBones/>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
       </visibleMods>
       <linkMods>
 	  <Item>
 	  <modelName>gr86_fender_1_int</modelName>
+	  <bone>chassis</bone>
+	  <turnOffExtra value="false" />
+		</Item>
+		<Item>
+	  <modelName>gr86_fender_9_int</modelName>
 	  <bone>chassis</bone>
 	  <turnOffExtra value="false" />
 		</Item>
@@ -500,6 +1222,66 @@
 		  <bone>door_pside_f</bone>
 		  <turnOffExtra value="false" />
 		</Item>
+		 <Item>
+          <modelName>gr86_windecal_rf_1</modelName>
+          <bone>window_rf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>gr86_windecal_lf_1</modelName>
+          <bone>window_lf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>gr86_windecal_r_1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>gr86_windecal_rf_2</modelName>
+          <bone>window_rf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>gr86_windecal_lf_2</modelName>
+          <bone>window_lf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>gr86_windecal_r_2</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>gr86_windecal_rf_3</modelName>
+          <bone>window_rf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>gr86_windecal_lf_3</modelName>
+          <bone>window_lf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>gr86_windecal_r_3</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>gr86_windecal_rf_4</modelName>
+          <bone>window_rf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>gr86_windecal_lf_4</modelName>
+          <bone>window_lf</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>gr86_windecal_r_4</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
 	  </linkMods>
       <statMods>
         <Item>
@@ -911,15 +1693,15 @@
   </Kits>
   <Lights>
     <Item>
-      <id value="1249" />	
+      <id value="942" />	
       <indicator>
         <intensity value="0.375000" />
         <falloffMax value="2.500000" />
         <falloffExponent value="8.000000" />
-        <innerConeAngle value="20.000000" />
-        <outerConeAngle value="50.000000" />
+        <innerConeAngle value="30.000000" />
+        <outerConeAngle value="80.000000" />
         <emmissiveBoost value="false" />
-        <color value="0xFFFF7300" />
+        <color value="0xFFFF8000" />
       </indicator>
       <rearIndicatorCorona>
         <size value="0.000000" />
@@ -927,7 +1709,7 @@
         <intensity value="0.000000" />
         <intensity_far value="0.000000" />
         <color value="0x00000000" />
-        <numCoronas value="0" />
+        <numCoronas value="1" />
         <distBetweenCoronas value="128" />
         <distBetweenCoronas_far value="255" />
         <xRotation value="0.000000" />
@@ -942,7 +1724,7 @@
         <intensity value="0.000000" />
         <intensity_far value="0.000000" />
         <color value="0x00000000" />
-        <numCoronas value="0" />
+        <numCoronas value="1" />
         <distBetweenCoronas value="128" />
         <distBetweenCoronas_far value="255" />
         <xRotation value="0.000000" />
@@ -956,23 +1738,23 @@
         <falloffMax value="4.000000" />
         <falloffExponent value="16.000000" />
         <innerConeAngle value="45.000000" />
-        <outerConeAngle value="170.000000" />
+        <outerConeAngle value="90.000000" />
         <emmissiveBoost value="false" />
         <color value="0xFFFF0000" />
       </tailLight>
       <tailLightCorona>
-        <size value="1.200000" />
-        <size_far value="2.500000" />
-        <intensity value="1.000000" />
+        <size value="0.900000" />
+        <size_far value="5.300000" />
+        <intensity value="4.000000" />
         <intensity_far value="1.000000" />
-        <color value="0xFFFF0505" />
+        <color value="0xFFFF1E05" />
         <numCoronas value="0" />
-        <distBetweenCoronas value="23" />
-        <distBetweenCoronas_far value="23" />
+        <distBetweenCoronas value="0.1" />
+        <distBetweenCoronas_far value="20.5" />
         <xRotation value="0.000000" />
         <yRotation value="0.000000" />
-        <zRotation value="0.000000" />
-        <zBias value="0.250000" />
+        <zRotation value="5.667000" />
+        <zBias value="0.000000" />
         <pullCoronaIn value="false" />
       </tailLightCorona>
       <tailLightMiddleCorona>
@@ -982,6 +1764,32 @@
         <intensity_far value="0.000000" />
         <color value="0x00000000" />
         <numCoronas value="0" />
+        <distBetweenCoronas value="25" />
+        <distBetweenCoronas_far value="25" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.000000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="0.800000" />
+        <falloffMax value="35.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.209999" />
+        <emmissiveBoost value="false" />
+        <color value="0xFF7FA7E3" />
+        <textureName>VehicleLight_car_led1</textureName>
+        <mirrorTexture value="true" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.100000" />
+        <size_far value="10.000000" />
+        <intensity value="0.800000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFF61A5FF" />
+        <numCoronas value="1" />
         <distBetweenCoronas value="128" />
         <distBetweenCoronas_far value="255" />
         <xRotation value="0.000000" />
@@ -989,39 +1797,13 @@
         <zRotation value="0.000000" />
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
-      </tailLightMiddleCorona>
-      <headLight>
-        <intensity value="1.500000" />
-        <falloffMax value="35.000000" />
-        <falloffExponent value="16.000000" />
-        <innerConeAngle value="0.000000" />
-        <outerConeAngle value="60.000000" />
-        <emmissiveBoost value="false" />
-        <color value="0xFF7FA7E3" />
-        <textureName>VehicleLight_car_LED2</textureName>
-        <mirrorTexture value="false" />
-      </headLight>
-      <headLightCorona>
-        <size value="0.100000" />
-        <size_far value="7.000000" />
-        <intensity value="7.000000" />
-        <intensity_far value="5.000000" />
-        <color value="0xFF61A5FF" />
-        <numCoronas value="0" />
-        <distBetweenCoronas value="34" />
-        <distBetweenCoronas_far value="1" />
-        <xRotation value="0.000000" />
-        <yRotation value="1.175000" />
-        <zRotation value="0.302000" />
-        <zBias value="0.250000" />
-        <pullCoronaIn value="false" />
       </headLightCorona>
       <reversingLight>
         <intensity value="0.500000" />
-        <falloffMax value="7.200000" />
+        <falloffMax value="4.000000" />
         <falloffExponent value="32.000000" />
-        <innerConeAngle value="20.000000" />
-        <outerConeAngle value="78.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
         <emmissiveBoost value="false" />
         <color value="0xFFFFFFFF" />
       </reversingLight>
@@ -1042,5 +1824,5 @@
       </reversingLightCorona>
       <name>gr86</name>
     </Item>
-  </Lights>	
+  </Lights>
 </CVehicleModelInfoVarGlobal>
