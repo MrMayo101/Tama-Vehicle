@@ -2,8 +2,8 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>gs1</handlingName>
-      <fMass value="200.000000" />
+      <handlingName>GS1</handlingName>
+      <fMass value="400.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.000000" />

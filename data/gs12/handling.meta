@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>gs12</handlingName>
+      <handlingName>GS12</handlingName>
       <fMass value="425.000000" />
       <fInitialDragCoeff value="3.000000" />
       <fPercentSubmerged value="95.000000" />

@@ -7,9 +7,9 @@
     <Item>
       <modelName>gs12</modelName>
       <txdName>gs12</txdName>
-      <handlingId>gs12</handlingId>
+      <handlingId>GS12</handlingId>
       <gameName>gs12</gameName>
-      <vehicleMakeName>Kawasaki</vehicleMakeName>
+      <vehicleMakeName>BMW</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
